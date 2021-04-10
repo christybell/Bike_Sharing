@@ -46,7 +46,7 @@ I created a heatmap showing the number of bike trips for each type of user and g
 <img src="images/Delv 2_trips by user type and gender.PNG">
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-For this part of the Challenge, I created a story in Tableau.  To view my Tableau dashboard, click [here](https://public.tableau.com/profile/christy.bell#!/).
+For this part of the Challenge, I created a story in Tableau.  To view my Tableau dashboard, click [here](https://public.tableau.com/profile/christy.bell#!/vizhome/CitiBike_Challenge_16179349742150/CitibikeStory).
 
 <img src="images/Delv 3.PNG">
 
