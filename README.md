@@ -46,9 +46,13 @@ I created a heatmap showing the number of bike trips for each type of user and g
 <img src="images/Delv 2_trips by user type and gender.PNG">
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-For this part of the Challenge, I created a story in Tableau.  To view my Tableau dashboard, click [here](https://public.tableau.com/profile/christy.bell#!/vizhome/CitiBike_Challenge_16179349742150/CitibikeStory).
+For this part of the Challenge, I created a story in Tableau.  To view and interact with my Tableau presentation, click [here](https://public.tableau.com/profile/christy.bell#!/vizhome/CitiBike_Challenge_16179349742150/CitibikeStory).
 
 <img src="images/Delv 3.PNG">
 
 ## Challenge Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+In summary, the visualizations and analysis I performed demonstrate that a bike-sharing program in Des Moines, Iowa can be successful. Since the hourly trip data in NYC suggests that daily commuters, not tourists, make up the majority of customers, a similar bike-sharing venture in Des Moines has strong potential to thrive. The data also shows that men are the predominant customer base, therefore advertising and marketing dollars should be spent to attract male subscribers. And, it goes without saying that the placement and distance between bike station locations will be key to the success of the program, so scouting out potential locations should be given special consideration. 
+
+Two additional visualizations that I would perform with the given dataset are:
+1. create a visualization to plot the start and end station ids and determine the average distance of bike trips.
+2. create visualizations that show usertype by birth year to get a better understanding of a customer's demographic by age.
