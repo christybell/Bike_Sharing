@@ -3,7 +3,7 @@
 <img src="images/bikesharing-header.png" width="1000" height="300">
 
 ## Project Overview
-For this project, I've used the ever-popular data visualization software tool, Tableau, to create and present a business proposal for a bike-sharing company. I've created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset. I plan to present these visualizations and proposal to an angel investor in the hopes of securing funds to start a bike-sharing business in my hometown of Des Moines, Iowa.
+For this project, I used the ever-popular data visualization software tool, Tableau, to create and present a business proposal for a bike-sharing company. I've created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset. I plan to present these visualizations and proposal to an angel investor in the hopes of securing funds to start a bike-sharing business in my hometown of Des Moines, Iowa.
 
 ## Resources
 - **Data Source**: CSV file containing August 2019 data from the [NYC Citibike](https://www.citibikenyc.com/system-data) website
