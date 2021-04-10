@@ -17,9 +17,9 @@ Using Python and Pandas functions, I converted the `tripduration` column from an
 <img src="images/Delv 1.PNG">
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
-Using Tableau, I created visualizations that show:
+Using Tableau, I created visualizations that answer the following 3 questions:
 
-**1. How long are bikes checked out for all riders and genders?**
+### **1. How long are bikes checked out for all riders and genders?**
 
 First, I created a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour. This visualization shows that the majority of bike trips last for 20 minutes or less.
 
@@ -29,7 +29,7 @@ Next, I created a line graph displaying the number of bikes that are checked out
 
 <img src="images/Delv 2_checkout times by gender.PNG">
 
-**2. How many trips are taken by the hour for each day of the week, for all riders and genders?**
+### **2. How many trips are taken by the hour for each day of the week, for all riders and genders?**
 
 First, I created a heatmap showing the number of bike trips for each hour of each day of the week. This visualization shows that the peak times for bike trips are Monday through Friday between 7:00-9:00am and 5:00-6:00pm, which suggests that many bike-share customers use them for their workday commutes. Also, there are a consistent number of bike trips made between 10:00am-6:00pm on Saturdays and Sundays, which one would expect in NYC due to the large tourist presence.
 
@@ -39,7 +39,7 @@ Next, I created a heatmap showing the number of bike trips by gender for each ho
 
 <img src="images/Delv 2_trips by gender.PNG">
 
-**3. What days of the week might a user be more likely to check out a bike, by type of user and gender?**
+### **3. What days of the week might a user be more likely to check out a bike, by type of user and gender?**
 
 I created a heatmap showing the number of bike trips for each type of user and gender for each day of the week, and the heatmap can be filtered by user and gender. This visualization clearly shows that most bike-share trips are made by male subscribers, with the most trips occuring on Thursdays.
 
